@@ -1,0 +1,24 @@
+.client_container {
+  width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.pet_sidebar {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.collapse_container {
+  margin-top: 10px;
+}
+
+.main {
+  width: 800px;
+}
+
+.news_sidebar {
+  width: 340px;
+}
